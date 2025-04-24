@@ -51,7 +51,7 @@ WebSocketSimulator: A mock utility simulating real-time data.
 bash
 Copy
 Edit
-git clone https://github.com/your-username/crypto-tracker.git
+git clone https://github.com/Venisriyallampalli/Crypto-tracker.git
 cd crypto-tracker
 2. Install Dependencies
 bash
@@ -73,39 +73,11 @@ npm run build — Generate production build
 npm run preview — Preview the production build
 
 npm run lint — Run linting using ESLint
-
-📸 Demo GIF / Video
-🎥 Watch the full walkthrough of the app below:
-
-
-
-Replace YOUR_VIDEO_ID with your actual YouTube or Loom video ID.
-
-📁 Example Data Table Preview
-Here's a sample of how the table might look:
-
-<!-- Replace with actual image -->
-
-📄 License
-This project is licensed under the MIT License.
-
 🙋‍♂️ Author
-Made by Your Name
-GitHub: @your-username
+Made by Venisri
+GitHub:Venisriyallampalli 
 
 📬 Feedback
 Feel free to open issues or pull requests to improve this project. Happy tracking!
 
-yaml
-Copy
-Edit
-
----
-
-### ✅ Next Steps
-
-- Replace placeholders with real links or images:
-  - `demo-screenshot.jpg` and `sample-output.jpg`
-  - `https://youtu.be/YOUR_VIDEO_ID`
-- Push this `README.md` to the root of your GitHub repo.
-- Record your 2–5 min walkthrough video and upload it to YouTube, Loom,or GitHub.
+  
