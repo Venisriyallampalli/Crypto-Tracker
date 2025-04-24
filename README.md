@@ -2,7 +2,7 @@ Real-Time Crypto Price Tracker
 
 A responsive cryptocurrency price tracker app built with **React** and **Redux Toolkit**, simulating real-time updates similar to CoinMarketCap. Features dynamic 7-day trend charts, color-coded performance indicators, and a fully managed Redux state architecture.
 
-![Demo Screenshot](./assets/demo-screenshot.jp) <![image](https://github.com/user-attachments/assets/c3ec955a-dc29-4895-9308-becb1994ccd7)
+![image](https://github.com/user-attachments/assets/c3ec955a-dc29-4895-9308-becb1994ccd7)
 
 
 ---
