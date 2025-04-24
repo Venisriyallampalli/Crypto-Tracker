@@ -76,8 +76,6 @@ npm run lint — Run linting using ESLint
 🙋‍♂️ Author
 Made by Venisri
 GitHub:Venisriyallampalli 
-
-📬 Feedback
 Feel free to open issues or pull requests to improve this project. Happy tracking!
 
   
